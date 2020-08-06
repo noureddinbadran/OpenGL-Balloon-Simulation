@@ -4,6 +4,9 @@
 ## About the simulation
 In this project will simulate how the ballon fly in the atmospher layers untill reachs to the specific layer, and we simulate all different physical factors which would the ballon exposed to it.
 
+## Tools
+We have used C++ graphics library(OpenGL)
+
 ## Dependencies
 You need to have on your local machine the following things:
 
