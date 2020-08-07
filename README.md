@@ -23,7 +23,8 @@ I have attached all needed files within the project under the "Dependencies\Open
     C:\Windows\System32 (in case if your OS is 32bit)
   
 ## To run the project
-  Open it and do clear & rebuild then run
+  1st: Go to directory "Ghraphces  project" and extract "Data.rar"
+  2nd: Open your VS and do clean & rebuild then run the project
   
 ## Note
   Under the directory "GUI LOON" there is a GUI had been built using C# for the project, so you can use it as a seperated GUI.

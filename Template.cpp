@@ -240,10 +240,7 @@ int InitGL(GLvoid)										// All Setup For OpenGL Goes Here
     down=LoadTexture("Data//Images//down.bmp");	
 	loon=LoadTexture("Data//Images//loon.bmp");
 	loon_bottom=LoadTexture("Data//Images//loon_Bottom.bmp");
-	Space_Box=LoadTexture("Data//Images//spacebox.bmp");
 	earth=LoadTexture("Data//Images//earth.bmp",255);
-    Out=LoadTexture("Data//Images//Out.bmp");
-	//PlaySound(TEXT("Data/Sound/1.wav"),NULL,SND_FILENAME | SND_ALIAS | SND_ASYNC);
     gluQuadricTexture(quadric, GL_TRUE);
 
      
